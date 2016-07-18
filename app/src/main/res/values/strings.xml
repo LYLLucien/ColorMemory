@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorMemory</string>
+
+
+    <string name="btn_rank">High Score</string>
+
+    <string name="title_rank">Rank</string>
+    <string name="title_name">Name</string>
+    <string name="title_score">Score</string>
+    <string name="alert_exit">Double click to Exit!</string>
+</resources>

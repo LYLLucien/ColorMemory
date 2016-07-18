@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dimen_60dp"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="@dimen/dimen_2dp">
+
+        <TextView
+            android:id="@+id/tvRank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_22sp" />
+    </FrameLayout>
+
+    <View
+        android:layout_width="@dimen/dimen_1dp"
+        android:layout_height="match_parent"
+        android:background="@color/black" />
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:padding="@dimen/dimen_2dp">
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_22sp" />
+    </FrameLayout>
+
+    <View
+        android:layout_width="@dimen/dimen_1dp"
+        android:layout_height="match_parent"
+        android:background="@color/black" />
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="@dimen/dimen_2dp">
+
+        <TextView
+            android:id="@+id/tvScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_22sp" />
+    </FrameLayout>
+
+</LinearLayout>

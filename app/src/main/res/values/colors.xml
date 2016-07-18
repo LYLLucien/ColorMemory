@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btnPrimary">#1B92C1</color>
+    <color name="btnPrimaryNormal">#1D58A4</color>
+    <color name="btnPrimaryDark">#151D5F</color>
+
+    <color name="btnOnPrimary">#6BC0DA</color>
+    <color name="btnOnPrimaryNormal">#1B9AC5</color>
+    <color name="btnOnPrimaryDark">#163D77</color>
+
+    <color name="btnDisablePrimary">#cccccc</color>
+    <color name="btnDisablePrimaryNormal">#8e8a8a</color>
+    <color name="btnDisablePrimaryDark">#514e4e</color>
+
+    <color name="btnStrokePrimary">#39A4CA</color>
+    <color name="btnStrokePrimaryDark">#164378</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#cccccc</color>
+    <color name="red">#ff0000</color>
+    <color name="orange">#ffFF7F50</color>
+
+    <color name="content_bg">#001743</color>
+</resources>
